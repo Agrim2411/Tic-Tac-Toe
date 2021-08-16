@@ -1,6 +1,6 @@
-# OXes
+# Tic-Tac-Toe
 
-OXes is an implementation of the classic Tic-Tac-Toe game played by 2 players. This uses socket programming in the server-client model.
+An implementation of the classic Tic-Tac-Toe game played by 2 players. This uses socket programming in the server-client model.
 
 To run this, first open the folder and in a new terminal run
 
